@@ -40,7 +40,6 @@ khmdb.googleapis.com
 khmdb.google.com
 khm.googleapis.com
 khm.google.com
-media.admob.com
 ocsp.pki.goog
 pagead-googlehosted.l.google.com
 recaptcha.net
